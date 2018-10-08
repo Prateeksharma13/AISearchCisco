@@ -1,0 +1,125 @@
+.search-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.cisco-logo {
+    vertical-align: middle;
+    height: 200px;
+    width: 300px;
+}
+
+.title {
+    font-size: 64px;
+    margin-top: 30px;
+}
+
+.tagline {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #444444;
+}
+
+.search-box {
+    width: 488px;
+    height: 32px;
+    outline: none;
+    padding: 5px 8px;
+    border-radius: 5px;
+    border: 1px solid #024e6a;
+}
+
+.search-div {
+    width: 504px;
+    margin: 20px auto;
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 1px solid #024e6a;
+    background-color: #00556A;
+}
+
+.search-button {
+    min-height: 40px;
+    min-width: 140px;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    cursor: pointer;
+    background-color: #00556A;
+}
+
+.search-button:active {
+    color: #00556A;
+    background-color: white;
+}
+
+::placeholder {
+    color: #757575;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.search-div {
+    margin-top: 20px;
+}
+
+/*.tt-hint {*/
+    /*width: 396px;*/
+    /*height: 30px;*/
+    /*padding: 8px 12px;*/
+    /*font-size: 24px;*/
+    /*line-height: 30px;*/
+    /*border: 2px solid #ccc;*/
+    /*-webkit-border-radius: 8px;*/
+    /*-moz-border-radius: 8px;*/
+    /*border-radius: 8px;*/
+    /*outline: none;*/
+/*}*/
+
+/*.tt-suggestion {*/
+    /*padding: 3px 20px;*/
+    /*font-size: 18px;*/
+    /*line-height: 24px;*/
+    /*color: red;*/
+/*}*/
+
+.tt-dataset {
+    color: darkslategrey;
+    width: 543px;
+    margin: 10px 10px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: white;
+    text-align: left;
+
+}
+
+.tt-hint {
+    background-color: black;
+}
+
+.tt-highlight {
+    background-color: white;
+
+}
+
+.tt-suggestion {
+    background-color: aliceblue;
+    height: auto;
+    padding: 40px;
+}
+
+
+.tt-cursor {
+    background-color: lightgrey;
+}
+
+/*.tt-open {*/
+    /*background-color: lightblue;*/
+/*}*/
+
+.tt-menu {
+    left: -30px !important;
+}

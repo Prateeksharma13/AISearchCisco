@@ -1,0 +1,6 @@
+requests
+tensorflow
+Flask
+flask_sqlalchemy
+flask_httpauth
+functions
